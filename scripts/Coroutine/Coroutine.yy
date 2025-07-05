@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Coroutine",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Coroutine",
+  "parent":{
+    "name":"GGO",
+    "path":"folders/Globules/Scripts/GGO.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

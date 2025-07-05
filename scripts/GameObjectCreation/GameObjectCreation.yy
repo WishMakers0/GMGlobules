@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"GameObjectCreation",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"GameObjectCreation",
+  "parent":{
+    "name":"General",
+    "path":"folders/Globules/Scripts/General.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

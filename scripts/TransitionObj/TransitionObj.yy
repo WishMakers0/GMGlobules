@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"TransitionObj",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"TransitionObj",
+  "parent":{
+    "name":"GGO",
+    "path":"folders/Globules/Scripts/GGO.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

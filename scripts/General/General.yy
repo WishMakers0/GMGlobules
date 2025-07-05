@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"General",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"General",
+  "parent":{
+    "name":"General",
+    "path":"folders/Globules/Scripts/General.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

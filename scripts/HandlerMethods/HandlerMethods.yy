@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"HandlerMethods",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"HandlerMethods",
+  "parent":{
+    "name":"Control",
+    "path":"folders/Globules/Scripts/Control.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
